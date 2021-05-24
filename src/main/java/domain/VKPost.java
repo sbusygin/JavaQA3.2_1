@@ -13,6 +13,10 @@ public class VKPost {
     private int created_by;
     private int date;
     private Likes likes;
+    private int from_id;
+    private int reply_owner_id;
+    private int reply_post_id;
+
 
 
 
