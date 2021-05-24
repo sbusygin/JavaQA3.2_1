@@ -4,6 +4,9 @@ public class VKPost {
     private Account accountAuthor;
     private CommentInfo commentInfo;
     private int created_by;
+    private int date;
+    private Likes likes;
+
 
 
 }
