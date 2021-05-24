@@ -1,3 +1,10 @@
+package domain;
+
+import domain.Account;
+import domain.CommentInfo;
+import domain.Likes;
+import domain.Text;
+
 public class VKPost {
     private int id;
     private Text textPost;
